@@ -8,7 +8,7 @@ Usage: #example
 * identifier.type = http://terminology.hl7.org/CodeSystem/v2-0203#SS "Social Security number"
 * identifier.system = "urn:oid:1.2.40.0.10.1.4.3.1"
 * identifier.value = "1111241261"
-* identifier.assigner.display = "Dachverband der �sterreichischen Sozialversicherungstr�ger"
+* identifier.assigner.display = "Dachverband der Österreichischen Sozialversicherungstr�ger"
 * name.family = "Mustadimi"
 * name.given[0] = "Alejandro"
 * name.given[+] = "Vasi"
